@@ -1,7 +1,7 @@
 # Facial Recognition
 Smart-Brain uses Clarifai API to detect face in an image. It helps to detect face in a picture provided by user through URL of image. User's rank gets upgraded everytime user detects image in a picture.
 
-#Demo
+# Demo
 Here is a working live demo 
 
 # Home Page (after login)
